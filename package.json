@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "hapi": "^16.6.3",
-    "boom": "^5.0.0",
+    "boom": "^6.0.0",
     "config": "^1.20.3",
     "joi": "^10.2.2",
     "lodash": "^4.17.4",
@@ -31,7 +31,6 @@
     "nodemon": "^1.12.1",
     "nyc": "^11.2.1",
     "proxyquire": "^1.7.10",
-    "mocha": "^4.0.1",
-    "sinon": "^4.1.2"
+    "mocha": "^4.0.1"
   }
 }
